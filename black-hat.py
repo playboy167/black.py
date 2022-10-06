@@ -147,8 +147,8 @@ class Main:
  
 		print("%s [%s•%s] %sTOOL TYPE : %sOLD IDZ 2009"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %sV1.0"%(G,R,G,B,G))
-		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(P,L,A,Y,B,O,Ykey))
-		print("%s [%s•%s] %sSTATUS    : %s"%(P,L,A,Ystat)) 
+		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(P,L,A,Y,B,O,Y,key))
+		print("%s [%s•%s] %sSTATUS    : %s"%(P,L,A,Y,stat)) 
 		print("───────────────────────────────────────────────────────× ")
 		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m FOLLOW ME FIRST\x1b[0m\x1b[1;97m] \033[1;37m ")
 		subprocess.check_output(["am", "start", "https://www.facebook.com/profile.php?id=100072883587040"])
